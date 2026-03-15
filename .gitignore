@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep TODO.md (as requested)
+/TODO.md
